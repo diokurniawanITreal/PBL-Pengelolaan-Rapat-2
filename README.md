@@ -1,16 +1,17 @@
-# Aplikasi Pengelolaan Rapat
-Aplikasi web yang digunakan untuk mengelola rapat, jadwal rapat, dan membuat pengguna rapat. Dikembangkan sebagai bagian dari Proyek PBL
+# Aplikasi Pengelolaan Rapat #
+Aplikasi pengelolaan rapat berbasis web adalah sebuah perangkat lunak kolaboratif yang dirancang untuk merampingkan seluruh siklus rapat, mulai dari penjadwalan rapat dan penambahan peserta rapat, semuanya dapat diakses melalui browser internet tanpa perlu instalasi rumit. Manfaat utamanya adalah meningkatkan efisiensi dengan mengotomatisasi tugas-tugas administratif, memastikan komunikasi yang terpusat dan transparan antar peserta, serta memfasilitasi pengambilan keputusan yang lebih cepat dan terinformasi, karena semua materi rapat dan riwayat diskusi tersedia secara instan di satu platform yang terpusat. 
 
-## Fitur Utama
+# Fitur Utama #
 Login Admin & Peserta
-Kelola Data RapatKelola Pengguna
-Dashboard
-melihat detail Rapat
+Kelola Data Rapat dan Data Peserta
+Dashboard Admin dan Peserta
+Menu lihat Rapat(Peserta)
 
-## Code
+# Teknologi/Code #
+VSCODE,
 HTML, 
 CSS, 
 JAVASCRIPT, 
-BOOSTRAP,
+BOOTSTRAP 5,
 PHP, 
-database MYSql
+PHPMYSQL
