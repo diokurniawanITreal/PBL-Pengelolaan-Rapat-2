@@ -1,0 +1,58 @@
+body {
+  background-image: url("img/poltek.jpeg");
+}
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+  background: rgba(15, 55, 97, 1);
+  color: white;
+  padding-top: 20px;
+}
+.menu-sidebar a {
+  padding: 12px 20px;
+  display: block;
+  color: #ddd;
+  text-decoration: none;
+}
+.menu-sidebar a:hover,
+.menu-sidebar a.active {
+  background: rgba(20, 73, 126, 1);
+  color: white;
+}
+#content {
+  margin-left: 200px;
+  padding: 20px;
+}
+
+.card-hover:hover {
+  transform: scale(1.03);
+  transition: 0.2s;
+  cursor: pointer;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo a {
+  padding: 0;
+}
+h5 {
+  text-align: center;
+  color: rgba(37, 37, 37, 1);
+}
+.text-dark {
+  text-align: center;
+}
+.out {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  margin: 15px;
+  border-radius: 5px;
+  background-color: rgba(187, 7, 7, 1);
+}
+.out:hover {
+  background-color: rgba(207, 51, 51, 1);
+  border-radius: 10px;
+}
